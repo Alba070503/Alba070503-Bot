@@ -124,8 +124,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="https://github.com/GeneradorVIP"><img src="https://github.com/GeneradorVIP.png" width="100" height="100" alt="GeneradorVIP"/></a>
 <a href="https://github.com/DIEGO-OFC"><img src="https://github.com/DIEGO-OFC.png" width="100" height="100" alt="DIEGO-OFC"/></a>
 <a href="https://github.com/SinNombre999"><img src="https://github.com/SinNombre999.png" width="100" height="100" alt="SinNombre999"/></a>
-
-## `EDITOR Y PORPIETARIO DEL BOT` 
+## `DUEÑO DEL BOT By @Alba070503` 
+<a href="https://github.com/Alba070503"><img src="https://github.com/Alba070503.png" width="280" height="280" alt="Alba070503"/></a>
+   
+## `EDITOR  DEL BOT` 
 <a href="https://github.com/BrunoSobrino"><img src="https://github.com/BrunoSobrino.png" width="250" height="250" alt="BrunoSobrino"/></a>
   
-`TheMystic-Bot-MD - By Bruno Sobrino`
+`Alba070503-Bot-MD`
