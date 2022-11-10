@@ -1,5 +1,6 @@
 # `🧿 SAKURA- BOT 🔮`
 
+
 ### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
 <a href="http://wa.me/59169082575" target="blank"><img src="https://img.shields.io/badge/Alba070503_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/5212411347465" target="blank"><img src="https://img.shields.io/badge/BRUNO_SOBRINO_CREADOR_SOFTWARE-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -47,7 +48,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/BrunoSobrino/Mystic-termux.git && cd Mystic-termux
+git clone https://github.com/BrunoSobrino/Alba070503-Bot.git && cd Alba070503-Bot
 ```
 
 ```bash
