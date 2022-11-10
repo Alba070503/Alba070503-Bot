@@ -48,7 +48,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/BrunoSobrino/Alba070503-Bot.git && cd Alba070503-Bot
+git clone https://github.com/Alba070503/Alba070503-Bot.git && cd Alba070503-Bot
 ```
 
 ```bash
